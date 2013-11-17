@@ -129,7 +129,7 @@
 				Gusto:
 			</div>
 			<div class="nine columns">
-				comer,vagar
+				Programar, carretear, andar en bicicleta y varios más
 			</div>
 		</div>
 		<br>
@@ -193,13 +193,44 @@
 </div>
 
 <div class="row">
-	<div class="twelve columns">
-		<?php $array = array(
-			'Nunca le haría pop a tu nombre','Eres la maxima prioridad dentro del heap de mi corazon','La vida es corta'
+	<?php
+	$frases = array("Los ordenadores son inútiles. Sólo pueden darte respuestas.",
+		"Los ordenadores son como los bikinis. Ahorran a la gente el hacer muchas conjeturas.",
+		"Preguntarse cuándo los ordenadores podrán pensar es como preguntarse cuándo los submarinos podrán nadar.",
+		"Hardware: las partes de un ordenador que pueden ser pateadas.",
+		"La mayoría de las patentes son una mierda. Dedicar tiempo a leerlas es estúpido. Es cosa de los propietarios de las patentes hacerlo y procurar que se respeten.",
+		"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo.",
+		"Primero resuelve el problema. Entonces, escribe el código.",
+		"Iterar es humano, 'recursivar' es divino.",
+		"El uso de COBOL daña la mente. Su enseñanza debería ser considerada como un ataque criminal.",
+		"El buen código es su mejor documentación.",
+		"El primer 90% del código corresponde al primer 90% del tiempo de desarrollo. El 10% restante corresponde al otro 90% del desarrollo.",
+		"Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos.",
+		"No puedes crear un gran software sin un gran equipo, y la mayoría de los equipos de desarrollo se comportan como familias disfuncionales."
 		);
-		echo $array[rand(0,2)];
-		?>
- 	</div>
+	$autores = array("-- Pablo Picasso",
+		"-- Sam Ewing",
+		"-- Edsger W. Dijkstra",
+		"-- Jeff Pesis",
+		"-- Linus Torvalds",
+		"-- Ley de Mosher de la Ingeniería del Software",
+		"-- John Johnson",
+		"-- L. Peter Deutsch",
+		"-- E. W. Dijkstra",
+		"-- Steve McConnell",
+		"-- Tom Cargill",
+		"-- Edsger W. Dijkstra",
+		"-- Jim McCarthy"
+		);
+	$azar = rand(0,13);
+	echo '<div class="twelve columns text-center">';
+		echo $frases[$azar];
+ 	echo '</div>';
+ 	echo <br>
+ 	echo '<div class="twelve columns text-center">';
+ 		echo $autores[$azar];
+ 	echo '</div>'
+ 	?>
 	<hr>
 </div>
 
