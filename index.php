@@ -222,11 +222,11 @@
 		"-- Edsger W. Dijkstra",
 		"-- Jim McCarthy"
 		);
-	$azar = rand(0,13);
+	$azar = rand(0,12);
 	echo '<div class="twelve columns text-center">';
 		echo $frases[$azar];
  	echo '</div>';
- 	echo <br>
+ 	echo '<br>';
  	echo '<div class="twelve columns text-center">';
  		echo $autores[$azar];
  	echo '</div>'
