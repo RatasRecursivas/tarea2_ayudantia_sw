@@ -58,7 +58,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Nombre:
+				<b>Nombre:</b>
 			</div>
 			<div class="nine columns">
 				Patricio Pérez Valverde
@@ -68,7 +68,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Carrera:
+				<b>Carrera</b>
 			</div>
 			<div class="nine columns">
 				Ing. Informática
@@ -78,7 +78,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Gusto:
+				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
 				comer,vagar
@@ -98,6 +98,14 @@
 			</div>
 		</div>
 
+		<br>
+
+		<div class="row">
+			<div class="twelve columns" >
+				<a href="https://github.com/pperez">GitHub</a>
+			</div>
+		</div>
+
     </div>
 	<div class="four columns">
 		<div class="twelve columns text-center">
@@ -106,7 +114,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Nombre:
+				<b>Nombre:</b>
 			</div>
 			<div class="nine columns">
 				Sebastián Rocha Reyes
@@ -116,7 +124,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Carrera:
+				<b>Carrera:</b>
 			</div>
 			<div class="nine columns">
 				Ing. Informática
@@ -126,7 +134,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Gusto:
+				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
 				Programar, carretear, andar en bicicleta y varios más
@@ -146,6 +154,13 @@
 			</div>
 		</div>
 		<br>
+
+		<div class="row">
+			<div class="twelve columns" >
+				<a href="https://github.com/srochar">GitHub</a>
+			</div>
+		</div>
+		<br>
 	</div>
 	<div class="four columns">
 		<div class="twelve columns text-center">
@@ -154,7 +169,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Nombre:
+				<b>Nombre:</b>
 			</div>
 			<div class="nine columns">
 				Natalia Tarifeño Ortiz
@@ -164,7 +179,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Carrera:
+				<b>Carrera:</b>
 			</div>
 			<div class="nine columns">
 				Ing. Informática
@@ -174,7 +189,7 @@
 
 		<div class="row">
 			<div class="three columns" >
-				Gusto:
+				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
 				comer,vagar
@@ -188,6 +203,11 @@
 			</div>
 		</div>
 		<br>
+		<div class="row">
+			<div class="twelve columns" >
+				<a href="https://github.com/ntarifeno">GitHub</a>
+			</div>
+		</div>
 	</div>
 	<hr>
 </div>
