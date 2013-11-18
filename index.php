@@ -83,7 +83,7 @@
 				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
-				comer,vagar
+				Andar en bici, beber, codear.
 			</div>
 		</div>
 		<br>
@@ -260,12 +260,12 @@
 
 <footer>
 	<div class="row">
-		<div class="twelve columns">
-			<p>Tecnologias utilizadas:</p>
-			<ul>
-				<li><a href="http://www.w3.org/html/wg/drafts/html/master/">HTML5</a></li>
-				<li><a href="http://php.net/">PHP5</a></li>
-				<li><a href="http://foundation.zurb.com/">Foundation CSS Framework</a></li> <!-- Hay que ver como sacarle mas el jugo :) -->
+		<div class="twelve columns text-center">
+			<h3>Tecnologias utilizadas:</h3>
+			<ul class="block-grid three-up mobile-two-up">
+				<li><a href="http://www.w3.org/html/wg/drafts/html/master/"><img src="images/HTML5.png">HTML5</a></li>
+				<li><a href="http://php.net/"><img src="images/php-logo.png">PHP5</a></li>
+				<li><a href="http://foundation.zurb.com/"><img src="images/foundation.png">Foundation CSS Framework</a></li> <!-- Hay que ver como sacarle mas el jugo :) -->
 			</ul>
 		</div>
 	</div>
