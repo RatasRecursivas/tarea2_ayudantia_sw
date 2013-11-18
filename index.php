@@ -25,7 +25,7 @@
 <header>
 <div class="row">
     <div class="four columns">
-        <img src="images/perfil_rata.jpg" alt="Foto Perfil Rattus" height="100" width="100" />
+        <img src="images/perfil_rata.png" alt="Foto Perfil Rattus" height="100" width="100" />
     </div>
     <div class="eight columns">
         <h1>Ratas Recursivas 2013</h1>
