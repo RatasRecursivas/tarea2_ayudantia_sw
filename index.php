@@ -42,6 +42,8 @@
   
 </header>
 
+<!-- Cuerpo -->
+
 <div class="row">
     <div class="twelve columns text-center">
     	<img src="images/labtocat.png" height="100" width="100" />
@@ -53,7 +55,7 @@
 <div class="row">
 	<div class="four columns">
 		<div class="twelve columns text-center">
-			<img src="images/foto_pato.png" height="100" width="100">
+			<img src="images/foto_patoh.jpeg" height="100" width="100">
 		</div>
 
 		<div class="row">
@@ -164,7 +166,7 @@
 	</div>
 	<div class="four columns">
 		<div class="twelve columns text-center">
-			<img src="images/naty.png" height="100" width="100">
+			<img src="images/foto_naty.png" height="100" width="100">
 		</div>
 
 		<div class="row">
@@ -192,7 +194,7 @@
 				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
-				Dormir,carretear, leer y ver peliculas.
+				Dormir,carretear, leer y ver películas.
 			</div>
 		</div>
 		<br>
@@ -254,14 +256,16 @@
 	<hr>
 </div>
 
+<!-- Footer -->
+
 <footer>
 	<div class="row">
 		<div class="twelve columns">
 			<p>Tecnologias utilizadas:</p>
 			<ul>
-				<li>HTML5</li>
-				<li>PHP5</li>
-				<li>Foundation CSS Framework</li>
+				<li><a href="http://www.w3.org/html/wg/drafts/html/master/">HTML5</a></li>
+				<li><a href="http://php.net/">PHP5</a></li>
+				<li><a href="http://foundation.zurb.com/">Foundation CSS Framework</a></li> <!-- Hay que ver como sacarle mas el jugo :) -->
 			</ul>
 		</div>
 	</div>
