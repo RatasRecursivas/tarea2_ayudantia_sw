@@ -164,7 +164,7 @@
 	</div>
 	<div class="four columns">
 		<div class="twelve columns text-center">
-			<img src="http://static.freepik.com/foto-gratis/icono-de-usuario-masculino_17-810120247.jpg" height="100" width="100">
+			<img src="images/naty.png" height="100" width="100">
 		</div>
 
 		<div class="row">
@@ -192,7 +192,7 @@
 				<b>Gusto:</b>
 			</div>
 			<div class="nine columns">
-				comer,vagar
+				Dormir,carretear, leer y ver peliculas.
 			</div>
 		</div>
 		<br>
